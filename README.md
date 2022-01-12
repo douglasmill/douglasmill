@@ -7,7 +7,7 @@ My name is Doug and I recently graduated from the Flatiron School Data Science p
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/douglas-mill-854698133/), [Personal Website/Blog](https://cyborgtraders.com), [Email](mailto:douglas_mill@live.com)
 - ⚡ Fun fact: I lost 30k in a week.
 
-![Visitor Count](https://profile-counter.glitch.me/cyborgsage/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=cyborgsage)
 
 <!--
 **cyborgsage/cyborgsage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
