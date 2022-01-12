@@ -1,5 +1,3 @@
-![header](./downloads/DS_Header.png)
-
 ### Hi there 👋
 
 My name is Doug and I recently graduated from the Flatiron School Data Science program in December of 2021.
