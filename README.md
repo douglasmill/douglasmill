@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Doug and I recently graduated from the Flatiron School Data Science program in December of 2021.
+
+- 🔭 I’m currently expanding my knowledge in machine learning, statistics, and data science and combining them with my foundation in economics. 
+- 🌱 I’m currently learning regression analysis, model deployment, SQL & database design, and machine learning for trading.
+- 📫 How to reach me: [Email](mailto:douglas_mill@live.com), [Linkedin](https://www.linkedin.com/in/douglas-mill-854698133/), [Blog](https://cyborgtraders.com)
+- ⚡ Fun fact: I lost 30k in a week and then still turned the same account green all-time.
+
+
 <!--
 **cyborgsage/cyborgsage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
