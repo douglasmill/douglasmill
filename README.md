@@ -3,7 +3,7 @@
 My name is Doug and I recently graduated from the Flatiron School Data Science program in December of 2021.
 
 - 🔭 I’m building my knowledge in machine learning, statistics, and data science and combining that with my foundation in economics in order to bring value to the business world. 
-- 🌱 I’m currently learning regression analysis, model deployment, SQL & database design, and machine learning for trading.
+- 🌱 I’m currently learning machine learning for trading.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/douglas-mill-854698133/), [Personal Website/Blog](https://cyborgtraders.com), [Email](mailto:douglas_mill@live.com)
 - ⚡ Fun fact: I lost 30k in a week.
 
