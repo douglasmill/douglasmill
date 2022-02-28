@@ -1,11 +1,11 @@
-## Hey there, I'm Doug 👋
+### Hey there, I'm Doug 👋
 
 - 🔭 I’m building my knowledge in machine learning, statistics, and data science and combining that with my foundation in economics in order to bring value to the business world. 
 - 🌱 I’m currently learning machine learning for trading.
 - 👯 Let's chat or collaborate! If you're interested, just contact me!
 
 <p>
-<a href="https://www.linkedin.com/in/douglas-mill-854698133/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a> <a href="https://cyborgtraders.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/douglas-mill-854698133/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 
 ---
 
