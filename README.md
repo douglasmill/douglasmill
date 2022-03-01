@@ -15,8 +15,7 @@
 <p align='center'>
 <a href="https://github.com/cyborgsage/ML-for-trading"><img src="https://gh-card.dev/repos/cyborgsage/ML-for-trading.svg"></a>
 <a href="https://github.com/cyborgsage/hospitals_in_tx"><img src="https://gh-card.dev/repos/cyborgsage/hospitals_in_tx.svg"></a>
-  </p>
-
+</p>
     
 <h4 align='center'> ↓ Please see the pinned repositories at the bottom of the page for my past projects ↓ </h4> 
 
