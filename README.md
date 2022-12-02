@@ -1,5 +1,5 @@
 ### Hey there, I'm Doug 👋
 
-- 🔭 I’m building my knowledge in machine learning, statistics, and data science and combining that with my foundation in economics in order to bring value to the business world. 
-- 🌱 I’m currently learning data engineering, data analysis, algorithmic trading, and quantitative trading.
-- 👯 Let's chat or collaborate!
+- 🔭 I’m gaining experience in software development, data science, and business analytics to combine with my foundation in economics to construct the frameworks that can generate key insights as well as profit off of them.
+- 🌱 I’m currently learning application development and algorithmic trading.
+- 👯 For messages or collaboration, click on my Linkedin URL to connect.
